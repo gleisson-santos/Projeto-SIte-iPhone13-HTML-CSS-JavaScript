@@ -4,7 +4,7 @@
 const buttons = document.querySelectorAll("#image-picker li");
 const image = document.querySelector("#product-image");
 
-//Coloar um evento para cada um dos botoes com o for
+//Colocar  um evento para cada um dos botoes com o for
 buttons.forEach((btn) => {
     btn.addEventListener("click", (e) => {
       
