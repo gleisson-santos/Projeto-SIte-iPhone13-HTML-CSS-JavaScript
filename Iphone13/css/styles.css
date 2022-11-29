@@ -141,7 +141,7 @@ header nav {
 }
 
 #image-picker {
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 }
 
 #image-picker ul {
@@ -198,7 +198,9 @@ footer {
 
 
 footer h3 {
-    font-size: 15px;
+    font-size: 13px;
+    text-align: center;
+    color: #86868b;
 }
 
 .foo {
@@ -212,7 +214,7 @@ footer h3 {
     padding: 0.3rem;
     font-size: 25px;
     text-align: none;
-    color: rgb(230, 9, 9);
+    color: #86868b;
 }
 
 
